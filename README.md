@@ -9,7 +9,7 @@ Profreview is a platform dedicated to enhancing the academic experience for both
 * It has a public access mode which is viewed as a **read-only** for any public visitor and doesn't require a login/signup. The public access shows the universities available on the platform, each professor and their details(Name, Image, Email, office location, and office phone number), and the reviews and ratings made by the students for each professor in the selected university.
 ![]() ![]()
 
-❗*** The platform allows only the students from the same university to login/signup to the university's **editing/writing mode**(for example: Bilgi university editing/writing mode can be accessed only with emails that end with the @bilgiedu.net domain, and so on for other univeristies) to ensure authenticity***
+❗***The platform allows only the students from the same university to login/signup to the university's **editing/writing mode**(for example: Bilgi university editing/writing mode can be accessed only with emails that end with the @bilgiedu.net domain, and so on for other univeristies) to ensure authenticity***
 
 ### In the editing mode students can: 
 * Rate(using a five star system) and write reviews for any professor(**Anonymous review submission is supported**)
