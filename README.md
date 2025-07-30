@@ -32,7 +32,7 @@ Profreview is a platform dedicated to enhancing the academic experience for both
 * The plaform supports sorting for the professors(Best, popular, worst, alphabetical), reviews(Top, newest, oldest, highest, lowest) and reviews in the student's profile(newest, oldest).
 * It also supports a name search functionality for the professors
 ![]() ![]() ![]()
-* If the student doesn't logout, the platform will log you out automatically after 24 hours
+* If the student doesn't logout, the platform will log them out automatically after 24 hours
 
 # Technical:
 * The platform was created using react native to allow support for Web(using expo bundler), Android and IOS.
