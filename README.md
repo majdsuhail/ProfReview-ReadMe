@@ -41,7 +41,4 @@ Profreview is a platform dedicated to enhancing the academic experience for both
 - **Backend:** Node.js with Express
 - **Database:** MySQL
 
-## 🌟 Support
-If you like this project, consider buying me a coffee: [Buy Me a Coffee](https://www.buymeacoffee.com/profreview).
-
 
