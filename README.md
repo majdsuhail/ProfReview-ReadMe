@@ -1,5 +1,5 @@
 # ProfeReview
-### This repository was created as a documentation to explain how the platform (profreview.net) works and showcase its features. The main project is in a private repository for security reasons, so i made this one for the ReadMe.md file.
+### This repository was created as a documentation to explain how the platform (profreview.net) works and showcase its features. The main project is in a private repository for security reasons.
 ## The project is live on [profreview.net](https://profreview.net/)
 
 ### Breif description:
